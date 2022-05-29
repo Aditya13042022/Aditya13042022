@@ -48,15 +48,15 @@
   <a href="https://twitter.com/asksaurabh101">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/asksaurabh101" alt="Twitter" />
   </a>
-  <a href="mailto: asksaurabh101@gmail.com">
+  <a href="mailto: adityasing085@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:asksaurabh101@gmail.com" alt="Gmail" />
   </a>
-  <a href="https://github.com/asksaurabh">
+  <a href="https://github.com/Aditya13042022">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/asksaurabh" alt="GitHub badge" />
   </a>
-  <a href="https://leetcode.com/asksaurabh101/">
+  <a href="https://leetcode.com/thakuraditya1304/">
   <img src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/asksaurabh101/" alt="LeetCode" />
-  <a href="https://www.linkedin.com/in/saurabh-kumar-aa89001ab/">
+  <a href="https://www.linkedin.com/in/thakur-aditya-singh-b341821b4/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-kumar-aa89001ab/" alt="LinkedIn" />
   </a>
 </p>
