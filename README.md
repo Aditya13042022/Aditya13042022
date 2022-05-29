@@ -16,9 +16,7 @@
 
 -   🌱 I'm proficient in _[Data Structures And Algorithms](#) and Web Development.
    
--   👯 I'm currently exploring Ruby On Rails.
-   
--   🤔 I'm looking for a Summer Internship. [May to August 2022]
+-   👯 I'm currently exploring React and Node JS.
 
 -   💬 Ask me about **anything**, **anytime**. (You know my [Username](https://github.com/Aditya13042022)!😉)
 
@@ -30,24 +28,20 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby&logoColor=red">
-<img src="https://img.shields.io/badge/-RubyOnRails-black?style=flat-square&logo=RubyOnRails&logoColor=red">
 </p>
 
 # 🤝Let's connect? 
 
 <p align="center">
-  <a href="https://twitter.com/asksaurabh101">
+  <!--<a href="https://twitter.com/aditya13042022">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/asksaurabh101" alt="Twitter" />
-  </a>
+  </a> -->
   <a href="mailto: adityasing085@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:asksaurabh101@gmail.com" alt="Gmail" />
   </a>
