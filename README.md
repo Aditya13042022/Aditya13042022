@@ -14,7 +14,7 @@
 # 😎About Me
 -   🔭 I'm a third year undergraduate student from National Institute of Technology, Delhi.
 
--   🌱 I'm proficient in _[Data Structures And Algorithms](#) and Web Development.
+-   🌱 I'm proficient in [Data Structures And Algorithms](#) and Web Development.
    
 -   👯 I'm currently exploring React and Node JS.
 
