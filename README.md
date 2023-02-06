@@ -12,11 +12,11 @@
 
 
 # 😎About Me
--   🔭 I'm a third year undergraduate student from National Institute of Technology, Delhi.
+-   🔭 I'm a final year undergraduate student from National Institute of Technology, Delhi.
 
 -   🌱 I'm proficient in [Data Structures And Algorithms](#) and Web Development.
    
--   👯 I'm currently exploring React and Node JS.
+-   👯 I'm currently working @Tekion Corp as a Software Developement intern.
 
 -   💬 Ask me about **anything**, **anytime**. (You know my [Username](https://github.com/Aditya13042022)!😉)
 
